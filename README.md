@@ -9,7 +9,7 @@
 # How to run localhost:
 - git clone (past copylink)
 - npm i 
-- npm run dev
+- npm run dev / npm start
 # Technologies Used:
 - js
 - tailwindcss
